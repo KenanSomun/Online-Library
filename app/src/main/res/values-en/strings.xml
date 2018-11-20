@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spirala4_16736</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_dodaj_kategoriju">Add Categorie</string>
+    <string name="str_dodaj_knjigu">Add book</string>
+    <string name="str_pretrazi">Search</string>
+    <string name="str_autori">Authors</string>
+    <string name="str_kategorije">Categories</string>
+    <string name="str_odaberi_sliku">Choose picture ..</string>
+    <string name="str_ponisti">Cancel</string>
+    <string name="str_povratak">Back</string>
+    <string name="str_upisi_knjigu">Enter book</string>
+    <string name="str_hint_unesi_ime_autora">Enter name of the author ..</string>
+    <string name="str_hint_unesi_naziv_knjige">Enter name of the book ..</string>
+    <string name="str_toast_nema_knjiga">No books in this categorie!</string>
+    <string name="str_toast_knjiga_uspjesno_dodana">Book added successfully!</string>
+    <string name="str_toast_unesi_naziv_autora_i_knjige">Author name and book name are required to enter!</string>
+    <string name="str_toast_tekst_pretrage">You have to enter search text!</string>
+    <string name="str_ex_nema_id">No book id*</string>
+    <string name="str_ex_nema_naziva">No book name*</string>
+    <string name="str_ex_nema_autora">No book authors*</string>
+    <string name="str_ex_nema_opisa">No book description*</string>
+    <string name="str_ex_nema_datuma">No book date of publicitaon*</string>
+    <string name="str_hint_tekst_pretrage">Enter search text ..</string>
+    <string name="str_dodaj_knjigu_online">Add book online</string>
+    <string name="str_toast_servis_pokrenut">Service started!</string>
+    <string name="str_toast_greska">Error!</string>
+    <string name="str_toast_bez_pretrage">You need to search first!</string>
+    <string name="str_preporuci">Recommend a book</string>
+    <string name="str_posalji_mail">Send e-mail</string>
+    <string name="str_toast_prazan_imenik">No contacts in the (contacts) directory!</string>
+    <string name="str_toast_no_email_app">There is no app for sending email!</string>
+
+</resources>
